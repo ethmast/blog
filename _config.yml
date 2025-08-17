@@ -21,12 +21,12 @@
 title: The Slippery ELM Blog
 # email: ethmast@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a place for me to post random things if I feel like it.
+  Join me for a walk through yuckiness
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://ethmast.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-production_url : http://ethmast.github.io.com/blog
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://lavernmast.com" # the base hostname & protocol for your site, e.g. http://example.com
+production_url : http://lavernmast.com/blog
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 theme: minima

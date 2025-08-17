@@ -4,7 +4,7 @@ title:  "Displaying MagicMirror on an Old Android Tablet"
 date:   2025-08-16
 categories: jekyll update
 ---
-![framed tablet running MagicMirror]({{ site.url }}./assets/images/framedmirror.jpg)
+![framed tablet running MagicMirror]({{ site.url }}/assets/images/framedmirror(censored).jpg)
 
 For quite a while I have had a smart display setup by my desk to show weather, calendar events, etc. It's basically an old laptop with linux installed on it running [MagicMirror](https://magicmirror.builders/). Plop a monitor on top of that and you have a very customizable smart display. But since MagicMirror also has functions as a server any device on the local network with a screen could in theory be another smart display. This is where I had the idea to use an old Android tablet to display some of the same information on the main smart display at another location in the house. It's an old nexus 7 that I rooted and debloated but still to slow to use for most things. Then the touchscreen stopped working and so it wasn't getting used for anything and was just collecting dust.  
 My goal was simple in theory, but a lot trickier in practice:
